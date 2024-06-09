@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.725df860.css",
-    "main.js": "/static/js/main.0dc4e1b6.js",
+    "main.js": "/static/js/main.50b5c533.js",
     "static/media/banner1.jpg": "/static/media/banner1.7b0e2a63435a660134c3.jpg",
     "static/media/book1.jpg": "/static/media/book1.bd86076cc73cb24a222c.jpg",
     "static/media/book2.jpg": "/static/media/book2.2257cf2406f313a000ad.jpg",
@@ -13,17 +13,16 @@
     "static/media/idea.png": "/static/media/idea.75242af1b51ef93d6ce7.png",
     "static/media/social.png": "/static/media/social.0609ad6d6985a6f3ed14.png",
     "static/media/library.png": "/static/media/library.4c042aeb9b7564b7e9d9.png",
-    "static/media/touch.png": "/static/media/touch.9b3cece4945ab1250047.png",
     "static/media/poet.png": "/static/media/poet.b3de4475a64c5d3650ea.png",
     "static/media/categories.png": "/static/media/categories.f88cc5a2d8a3c17b56bf.png",
     "static/media/robot.png": "/static/media/robot.3e38acc0493763eacabe.png",
     "static/media/icon_close.svg": "/static/media/icon_close.85205c1132a704a43bcd172771a52e2c.svg",
     "index.html": "/index.html",
     "main.725df860.css.map": "/static/css/main.725df860.css.map",
-    "main.0dc4e1b6.js.map": "/static/js/main.0dc4e1b6.js.map"
+    "main.50b5c533.js.map": "/static/js/main.50b5c533.js.map"
   },
   "entrypoints": [
     "static/css/main.725df860.css",
-    "static/js/main.0dc4e1b6.js"
+    "static/js/main.50b5c533.js"
   ]
 }
